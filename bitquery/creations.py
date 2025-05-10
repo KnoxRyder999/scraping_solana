@@ -11,6 +11,8 @@ import csv
 import os
 import sys
 
+
+
 #Disable tqdm if running from cron / ipython
 #https://github.com/tqdm/tqdm/issues/506
 try:

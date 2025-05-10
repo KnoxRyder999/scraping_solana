@@ -8,6 +8,7 @@ v1_endpoint = "https://graphql.bitquery.io"
 v2_endpoint = "https://streaming.bitquery.io/graphql"
 eap_endpoint = "https://streaming.bitquery.io/eap"
 
+
 #https://docs.bitquery.io/docs/examples/Solana/Solana-Raydium-DEX-API/#latest-price-of-a-token
 dex_query = """ 
 query ListDEXes {
